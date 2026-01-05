@@ -8,7 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+    - title: "Research"
+    url: /research/
+    
+    - title: "Publications"
     url: /publications/
 
   - title: "Conferences"
@@ -16,10 +19,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+         
   - title: "CV"
     url: /files/CV_Sang_Hyun_Kim.pdf
     
